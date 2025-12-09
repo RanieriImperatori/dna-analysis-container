@@ -1,0 +1,24 @@
+# Git metadata
+.git 
+.gitignore
+
+# Documentation
+docs/
+README.md
+LICENSE
+
+# Python / cache
+__pycache__/
+.venv/
+venv/
+env/
+pip-wheel-metadata/
+
+# Docker build artifacts
+*.tar
+*.tar.gz
+*.tgz
+docker-build/
+.docker-cache/
+
+.vscode/

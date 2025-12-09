@@ -1,0 +1,22 @@
+# Docker and local build
+*.tar
+*.tar.gz
+*.tgz
+docker-build/
+.docker-cache/
+
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+pip-wheel-metadata/
+
+# Others
+logs/
+tmp/
+.env
